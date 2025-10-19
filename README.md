@@ -1,13 +1,14 @@
-🧭 Tripadvisor Dashboard | Tableau
+# 🧭 Tripadvisor Dashboard | Tableau
 
 
-✨ Project Overview
+### ✨ Project Overview
 
 This project is an interactive Tableau dashboard designed to analyze hotel performance, traveler patterns, and user engagement data from Tripadvisor. It provides a unified view of how hotels differ in service offerings, popularity, and customer satisfaction across continents and seasons.
 
 The dashboard combines multiple visualizations to uncover patterns in user behavior, hotel size, rating distributions, and service impact, enabling quick data-driven decisions for hospitality businesses.
 
-🎯 Purpose
+---
+### 🎯 Purpose
 
 The goal was to create a comprehensive performance snapshot of hotels and user activity that helps identify:
 
@@ -17,7 +18,8 @@ How user engagement varies by region and traveler type.
 
 Seasonal trends in hotel visits and reviews.
 
-🥅 Goals
+---
+### 🥅 Goals
 
 Visualize key metrics such as total hotels, average rooms, ratings, and user reviews.
 
@@ -29,7 +31,8 @@ Detect seasonal patterns in user stays.
 
 Explore the relationship between hotel services and popularity.
 
-⚙️ Features
+---
+### ⚙️ Features
 
 KPI cards highlighting Total Hotels (21), Avg. Rooms (2,196), Avg. Score (4.12), and Avg. User Reviews (48.13).
 
@@ -41,7 +44,8 @@ Treemap, bubble chart, bar charts, and heatmap integration for a clear storytell
 
 Consistent color theme (teal–black) inspired by the Tripadvisor brand identity.
 
-📊 Highlights
+---
+### 📊 Highlights
 
 Data coverage: 21 hotels across multiple continents.
 
@@ -59,7 +63,8 @@ Excalibur Hotel & Casino – 3,981 rooms
 
 Bellagio Las Vegas – 3,933 rooms
 
-🖼️ Walk-through of Key Visuals
+---
+### 🖼️ Walk-through of Key Visuals
 
 Total Hotels by Additional Services – A heatmap revealing which service combinations (Wi-Fi, gym, club, etc.) are most common among hotels.
 
@@ -73,7 +78,8 @@ Traveler Type – Treemap highlighting majority traveler categories (Couples, Fa
 
 Top 10 Hotels by Total Rooms – Ranked table identifying major Las Vegas resorts leading in capacity.
 
-💡 Business Impact & Insights
+---
+### 💡 Business Impact & Insights
 
 High concentration of engagement in North America suggests targeted marketing potential.
 
@@ -85,7 +91,8 @@ Large hotel sizes correlate with higher visibility and reviews, but not necessar
 
 The dashboard enables strategic resource allocation for hotel managers and data-backed decisions for marketing teams.
 
-🛠️ Tech Stack
+---
+### 🛠️ Tech Stack
 
 Tableau Desktop – for data visualization & dashboard design
 
@@ -95,7 +102,8 @@ SQL – for querying and transforming hotel & user data
 
 Data Cleaning & Structuring – performed in Excel and Tableau Prep
 
-🚀 Key Learnings
+---
+### 🚀 Key Learnings
 
 Enhanced skills in data storytelling and dashboard layout optimization.
 
